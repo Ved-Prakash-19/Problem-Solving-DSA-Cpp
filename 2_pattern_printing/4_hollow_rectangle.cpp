@@ -14,14 +14,14 @@ int main(){
     for(int i=0; i<length1; i++){
         for(int j=0; j<length2; j++){
             if(i==0 || i==length1-1){
-                cout<<"*\t";
+                cout<<"*";
             }
             else{
                 if(j==0 || j==length2-1){
-                    cout<<"*\t";
+                    cout<<"*";
                 }
                 else{
-                    cout<<"\t";
+                    cout<<" ";
                 }
             }
         }
