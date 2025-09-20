@@ -4,7 +4,7 @@
 // int main(){
 
 //     int n;
-//     cout<<"Enter vslue of n: ";
+//     cout<<"Enter value of n: ";
 //     cin>>n;
 
 //     for(int i=0; i<n; i++){
