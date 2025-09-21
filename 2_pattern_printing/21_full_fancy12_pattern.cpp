@@ -19,7 +19,7 @@ int main(){
         }
         cout<<endl;
     }
-    n--;   //
+    n--;   //uper 5 row tha then n-- niche 4 row total - 9
 
     // inverted fancy pattern:-
     for(int i=0; i<n; i++){
