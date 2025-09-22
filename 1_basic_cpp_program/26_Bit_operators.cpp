@@ -6,6 +6,7 @@ int main()
     cout<< (5 & 3) <<endl;
     cout<< (5 | 3) <<endl;
     cout<< ~(5) <<endl;
+    cout<< (5^5^7^7) <<endl;
     cout<< (5^5^6) <<endl;    //0^n=n
     cout<< (5<<1) <<endl;    //0^n=n
     cout<< (5>>1) <<endl;    //0^n=n
